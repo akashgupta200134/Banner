@@ -1,4 +1,4 @@
-
+![logo](https://github.com/akashgupta200134/akashgupta200134/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Akash Gupta</h1>
 <h3 align="center">I am passionate Frontend Developer</h3>
