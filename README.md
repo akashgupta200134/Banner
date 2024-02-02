@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Akash Gupta</h1>
 <h3 align="center">I am passionate Frontend Developer</h3>
-<img align="right" width=550px src="" />
+<img align="right" width=550px src="https://private-user-images.githubusercontent.com/74038190/240815068-993370af-11f4-48e7-9e0d-e5b79c2e7890.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY4NTI3MzYsIm5iZiI6MTcwNjg1MjQzNiwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTUwNjgtOTkzMzcwYWYtMTFmNC00OGU3LTllMGQtZTViNzljMmU3ODkwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjAyVDA1NDAzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRhMWYxNjkyOWY3N2Q5Y2ZjMGU4ZDFhM2Q0MDM1Mzc0MmMzMzcyNThiYWFlMzBiZjg2YWZmM2EwMmJmZjE4NDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.uEtekxRuZWbRYdLb3tjVgALeDNWs1BSxIf2SVb80Xvs" />
 
-https://github.com/akashgupta200134/akashgupta200134/assets/107178274/ced923c5-e99f-4972-9d25-0bd4548e21d4
+
 
 
 
