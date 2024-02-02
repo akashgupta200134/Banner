@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Akash Gupta</h1>
 <h3 align="center">I am passionate Frontend Developer</h3>
-<img align="right" width=550px src="Uploading _mr_akash_gupta__fc2a4f8d90044bd28ff5d4363469963c.mp4…" />
+<img align="right" width=550px src="" />
 
 https://github.com/akashgupta200134/akashgupta200134/assets/107178274/ced923c5-e99f-4972-9d25-0bd4548e21d4
 
