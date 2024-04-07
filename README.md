@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Reactjs,Python**
 
--  📫 All my Projects are available at "https://portfolio-nine-rho-39.vercel.app/"
+-  📫 All my Projects are available at "https://akashgupta.vercel.app/"
 
 - 💬 Ask me about **Frontend Development**
 
