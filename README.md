@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Frontend Development**
 
-- 📫 How to reach me **akashgupta_ce_2021@ltce.in**
+- 📫 How to reach me **akashgupta2000515@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
   
